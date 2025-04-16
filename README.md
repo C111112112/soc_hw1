@@ -19,7 +19,7 @@ Xilinx Vivado 2018：用於硬體設計與綜合。
 Xilinx SDK：用於開發軟體並控制 PS。
 
 ## Block Design
-![螢幕擷取畫面 2025-04-15 015145](https://github.com/user-attachments/assets/43f11925-d596-450a-b5f4-6761b64da03b)
+![image](https://raw.githubusercontent.com/C111112112/soc_hw1/refs/heads/main/hw1%E7%85%A7%E7%89%87.png)
 
 ## 實作示範影片
 https://github.com/user-attachments/assets/58d20088-b7c5-4e95-a544-1f9001d7ad20
