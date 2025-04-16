@@ -22,5 +22,5 @@ Xilinx SDK：用於開發軟體並控制 PS。
 ![image](https://raw.githubusercontent.com/C111112112/soc_hw1/refs/heads/main/hw1%E7%85%A7%E7%89%87.png)
 
 ## 實作示範影片
-https://github.com/user-attachments/assets/3fde384f-6f9e-4116-a03d-6fd383c3ec2d
+https://github.com/user-attachments/assets/a2d8c924-3a48-4dd9-aed8-3976a0199368
 
